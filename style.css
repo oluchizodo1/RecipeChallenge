@@ -1,0 +1,75 @@
+
+body{
+    background:hsl(30, 54%, 90%) ;
+    margin: 50px;
+}
+
+.rectangle{
+    background-color: white;
+    padding:30px ;
+    border-radius: 10px;
+}
+  
+#firstimage{
+    width:100%;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 100;
+    font-family: "Young Serif", serif;
+}
+
+h2 {
+    color: brown;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: "Young Serif", serif;
+}
+p{
+  font-size: 14px;
+  max-width: 900px;;
+  text-align: justify;
+  font-weight: regular;
+  line-height: 20px;
+ 
+}
+.preparation{
+    background: hsl(330, 100%, 98%);
+    padding: 1px;
+    border-radius: 8px;
+
+    
+}
+#prepare{
+    font-size: 16px;
+    margin: 30px;
+    line-height: 0;
+    color: hsl(332, 51%, 32%);
+}
+ul li{
+   line-height: 30px;
+   font-size: 14px;
+   
+}
+
+ol li{
+    line-height: 30px;
+    font-size: 14px;
+}
+
+hr{
+    width: 100%;
+    color:lightgray
+    
+}
+
+td{
+    font-size: 14px;
+    line-height: 30px;
+    position: relative;
+    left: 30px;
+    border-bottom: 1px solid lightgray;  
+}
+
